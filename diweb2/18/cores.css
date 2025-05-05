@@ -1,0 +1,25 @@
+.conteiner{
+    border: 2px solid;
+    width: 104%;
+    height: 60px;
+}
+
+div{
+    width: 40px;
+    height: 40px;
+    margin: 4px;
+}
+
+.box01{
+
+    background-color: blueviolet;
+}
+
+.box02{
+
+    background-color: cornflowerblue;
+}
+
+.box03{
+     background-color: crimson;
+}

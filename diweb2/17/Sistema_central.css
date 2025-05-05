@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    margin: 2rem auto;
+    width: 100%;
+    border-collapse: collapse;
+}
+tr:hover{
+    background-color: lightcyan;
+    font-size: 1.3rem;
+}
+th, td{
+    border: 1px solid darkcyan;
+    height: 2rem;
+}
+th{
+    background-color: darkcyan;
+    color: white ;
+    font-weight: bold;
+    text-align: center;
+}
+caption{
+  font-weight: bold;
+  text-align: center;
+  font-size: 3rem;
+  margin: 2rem;
+  color: darkcyan  
+}
+.total{
+    text-align: right;
+    font-weight: bold;
+    padding-right: 1rem;
+}

@@ -1,0 +1,28 @@
+.conteiner{
+    border: 2px solid;
+    width: 104%;
+    height: 60px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+div{
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+}
+
+.box01{
+
+    background-color: blueviolet;
+}
+
+.box02{
+
+    background-color: cornflowerblue;
+}
+
+.box03{
+     background-color: crimson;
+}
