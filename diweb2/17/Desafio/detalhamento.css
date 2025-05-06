@@ -1,0 +1,21 @@
+.Titulo {
+    color:darkred;
+}
+
+.informacoes{
+    margin: 2rem auto;
+    width: 80%;
+    border: 5px solid darkred;
+    padding: 3rem;
+    width: 81%;
+}
+ .BTN{
+    display: inline-block;
+    background-color: darkred;
+    border: none;
+    margin-top: 2rem;
+    padding: 2.6rem 2.8rem;
+    color: white;
+    font-size: ;
+    text-decoration: nome;
+ }
