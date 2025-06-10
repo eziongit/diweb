@@ -6,6 +6,7 @@
 html {
   font-size: 52.5%;
   font-family: sans-serif;
+  background-color: #dcdc;
 }
 header {
   height: 70px;
@@ -26,3 +27,55 @@ header ul {
   display: flex;
   list-style: none;
 }
+.logo {
+  background-color: #dcdc;
+  color: #131a1f;
+  padding: 9px 29px;
+  border-radius: 1px;
+  border: none;
+  margin-left: 10px;
+  font-size: 2rem;
+  font-family: "Impact";
+}
+
+/* footer {
+  margin-left:   10px;
+  background-color: #333;
+  padding: 10px 300px;
+  border: nome;
+  box-sizing: border-box;
+
+}
+footer p{
+  text-align: center;
+  margin: 0 5px;
+
+} */
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  color: #fff;
+  padding: 9px 29px;
+  border-radius: 1px;
+}
+
+footer ul {
+  display: flex;
+  text-align: center;
+  
+}
+
+footer a{
+  color: #fff;
+  padding: 6px;
+  list-style: none;
+}
+
+.card-img{
+  margin-top: 50px;
+  font-size: 40px;
+}
+
